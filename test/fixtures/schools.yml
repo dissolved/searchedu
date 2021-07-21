@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: Mediocre School
+  latitude: 39.955217
+  longitude: -75.190051
+
+two:
+  name: Superb School
+  latitude: 37.429434
+  longitude: -122.167359
